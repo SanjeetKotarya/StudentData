@@ -1,0 +1,52 @@
+[
+    {
+        "rollNumber": 1,
+        "department": "Computer Science",
+        "hostelName": "Mandakini Hostel"
+    },
+    {
+        "rollNumber": 2,
+        "department": "Electronics and Communication",
+        "hostelName": "Krishna Hostel"
+    },
+    {
+        "rollNumber": 3,
+        "department": "Mechanical Engineering",
+        "hostelName": "Brahmaputra Hostel"
+    },
+    {
+        "rollNumber": 4,
+        "department": "Civil Engineering",
+        "hostelName": "Ganga Hostel"
+    },
+    {
+        "rollNumber": 5,
+        "department": "Information Technology",
+        "hostelName": "Krishna Hostel"
+    },
+    {
+        "rollNumber": 6,
+        "department": "Electronics and Instrumentation",
+        "hostelName": "Jamuna Hostel"
+    },
+    {
+        "rollNumber": 7,
+        "department": "Electrical Engineering",
+        "hostelName": "Ganga Hostel"
+    },
+    {
+        "rollNumber": 8,
+        "department": "Computer Science",
+        "hostelName": "Brahmaputra Hostel"
+    },
+    {
+        "rollNumber": 9,
+        "department": "Mechanical Engineering",
+        "hostelName": "Mandakini Hostel"
+    },
+    {
+        "rollNumber": 10,
+        "department": "Electrical Engineering",
+        "hostelName": "Krishna Hostel"
+    }
+]
